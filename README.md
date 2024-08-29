@@ -14,30 +14,32 @@
 <p>With your account, you can integrate your company for a seamless workflow and increased productivity, you can also  manage your BatchData services, including;</p>
 <ul>
 <li>
-<p><a href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-address-verify"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Address Verification</code></a> - Validate, clean and standardize millions of addresses in seconds.</p>
+<p><a target="_blank" href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-address-verify"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Address Verification</code></a> - Validate, clean and standardize millions of addresses in seconds.</p>
 </li>
 <li>
-<p><a href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-phone-verification"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Phone Verification</code> </a>a>- Verify phone numbers, check line types and avoid wasting resources on the wrong data. Get DNC and TCPA status.</p>
+<p><a target="_blank" href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-phone-verification"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Phone Verification</code> </a>a>- Verify phone numbers, check line types and avoid wasting resources on the wrong data. Get DNC and TCPA status.</p>
 </li>
 <li>
-<p><a href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-property-lookup-all-attribute"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Property Lookup</code></a> -  Get most robust and most comprehensive property data in the industry. Retrieve address, parcel, building and other property related information.</p>
+<p><a target="_blank" href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-property-lookup-all-attribute"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Property Lookup</code></a> -  Get most robust and most comprehensive property data in the industry. Retrieve address, parcel, building and other property related information.</p>
 </li>
 <li>
-<p><a href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-address-geocode">
+<p><a target="_blank" href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-address-geocode">
 <code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Address Geocode</code></a> - Convert address data into geocodes (Latitude and longitude coordinates) and geocodes into precise address locations (reverse geocodes).</p>
 </li>
 <li>
-<p><a href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-property-skip-trace"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Property Skip Trace</code> </a>- Find complete and most accurate individuals’ information with a click of a button.</p>
+<p><a target="_blank" href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-property-skip-trace"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Property Skip Trace</code></a>- Find complete and most accurate individuals’ information with a click of a button.</p>
 </li>
 </ul>
-<p>Visit <a href="https://batchdata.com/product-info" target="_blank" rel="noreferrer">BatchData Product Articles</a> and <a href="https://batchdata.com/faq" target="_blank" rel="noreferrer">FAQ</a> to know more about BatchData.</p>
-<p>Create an account with us and <a href="/docs/batchdata/set-up-authentication">set-up your Authentication</a> to get access to vast dataset that we have.</p></div></div>
+<p>Visit <a target="_blank" href="https://batchdata.com/product-info" target="_blank" rel="noreferrer">BatchData Product Articles</a> and <a target="_blank" href="https://batchdata.com/faq" target="_blank" rel="noreferrer">FAQ</a> to know more about BatchData.</p>
+<p>Create an account with us and <a target="_blank" href="/docs/batchdata/set-up-authentication">set-up your Authentication</a> to get access to vast dataset that we have.</p></div></div>
 
 <h2 id="build-for-tomorrow-with-the-most-accurate-real-estate-and-residential-data-available" class="sl-link-heading sl-text-4xl sl-leading-tight sl-font-prose sl-font-bold sl-text-heading"><a href="#build-for-tomorrow-with-the-most-accurate-real-estate-and-residential-data-available" class="sl-link sl-link-heading__link sl-inline-flex sl-items-center sl-text-current"><div>Build for Tomorrow with the Most Accurate Real Estate and Residential Data Available</div><div class="sl-link-heading__icon sl-text-base sl-ml-4 sl-text-muted"><i role="img" aria-hidden="true" class="sl-icon fal fa-link"></i></div></a></h2>
 <p>Check out our developer resources:</p>
 <ul>
 <li><a href="https://developer.batchdata.com/docs/batchdata/ZG9jOjk1ODM2MA-getting-started" target="_blank" rel="noreferrer noopener">API Documentation</a></li>
 <li><a href="https://developer.batchdata.com/docs/batchdata/ZG9jOjM3NzA5MjQx-data-dictionary" target="_blank" rel="noreferrer noopener">Data Dictionary</a></li>
+  <li><a href="https://www.postman.com/batchdata" target="_blank" rel="noreferrer noopener">Postman</a></li>
+  
 <li><a href="https://batchdata.com/faq" target="_blank" rel="noreferrer noopener">FAQ</a></li>
 </ul>
 <hr>
