@@ -1,0 +1,2 @@
+# Batchdata
+BatchData is a real estate data and technology company. We provide visibility into real estate assets through real-time property intelligence, empowering real estate professionals to better identify opportunities and directly engage with property owners, investors, and agents. BatchService provides a suite of tools to manage client records, organize lists, comp properties, and surface investor insights. Our developer-friendly API endpoints fuel innovation for the proptech ecosystem.
