@@ -2,7 +2,7 @@
 <figure><div class="sl-product-image sl-overflow-x-hidden sl-overflow-y-hidden sl-rounded-xl sl-border-body sl-border-2 hover:sl-shadow sl-cursor-zoom-in sl-transform sl-duration-300 hover:sl-translate-x-2 hover:sl--translate-y-2" style="--shadow-md: -8px 8px 0 0 var(--color-text);"><img src="https://app.batchdata.com/assets/images/full-logo.png" alt="logo" class="sl-image sl-overflow-x-hidden sl-overflow-y-hidden sl-mx-auto sl-bg-canvas-pure sl-border-body"></div>
 </figure>
 
-<h1 class="sl-text-5xl sl-leading-tight sl-font-prose sl-font-bold sl-text-heading">Welcome to the BatchData</h1>
+<h1 class="sl-text-5xl sl-leading-tight sl-font-prose sl-font-bold sl-text-heading">Welcome to BatchData</h1>
 
 
 <div>
