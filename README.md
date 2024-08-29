@@ -17,7 +17,7 @@
 <p><a target="_blank" href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-address-verify"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Address Verification</code></a> - Validate, clean and standardize millions of addresses in seconds.</p>
 </li>
 <li>
-<p><a target="_blank" href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-phone-verification"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Phone Verification</code> </a> - Verify phone numbers, check line types and avoid wasting resources on the wrong data. Get DNC and TCPA status.</p>
+<p><a target="_blank" href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-phone-verification"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Phone Verification</code></a> - Verify phone numbers, check line types and avoid wasting resources on the wrong data. Get DNC and TCPA status.</p>
 </li>
 <li>
 <p><a target="_blank" href="https://developer.batchdata.com/docs/batchdata/batchdata-v1/operations/create-a-property-lookup-all-attribute"><code class="sl-font-mono sl-font-medium sl-mx-0.5 sl-px-1 sl-py-0.5 sl-bg-code sl-text-on-code sl-rounded sl-border" style="font-size: 0.8125em;">Property Lookup</code></a> -  Get most robust and most comprehensive property data in the industry. Retrieve address, parcel, building and other property related information.</p>
